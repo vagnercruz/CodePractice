@@ -34,6 +34,7 @@ As soluções estão implementadas em várias linguagens de programação, inclu
 - C
 - C++
 - Ruby
+- Java
 
 ## 🤝 Contribuição
 
