@@ -19,7 +19,7 @@ Este repositório contém minhas soluções para os exercícios do site [beecrow
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/vagnercruz/beecrowd
+    git clone https://github.com/vagnercruz/CodePractice.git
     ```
 2. Navegue até o diretório do problema que você deseja ver a solução:
     ```bash
